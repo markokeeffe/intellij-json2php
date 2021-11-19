@@ -1,0 +1,1 @@
+# intellij-json2php
